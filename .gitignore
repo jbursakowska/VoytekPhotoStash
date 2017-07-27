@@ -1,0 +1,20 @@
+# dependencies
+
+node_modules/
+bower_components/
+
+# vsc directories
+
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# build directories
+
+dist/
+
+# images
+
+#src/assets/images
