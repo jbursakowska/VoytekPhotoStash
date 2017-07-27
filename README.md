@@ -11,7 +11,7 @@ Wojciech "Voytek" Zychowski Private Portfolio
 - Node.js
 - Bootstrap
 - FontAwesome
-- Freelancer Bootstrap Theme (https://startbootstrap.com/template-overviews/freelancer/()
+- Freelancer Bootstrap Theme (https://startbootstrap.com/template-overviews/freelancer/)
 
 ## Dependencies
 
