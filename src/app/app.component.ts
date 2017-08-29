@@ -2,8 +2,11 @@ import { Component, OnInit } from '@angular/core';
 
 import '../assets/css/styles.css';
 import '../assets/css/freelancer.css';
+import '../assets/js/owl.carousel.min.js'
+import '../assets/css/owl.carousel.min.css'
 
 declare var $: any;
+declare var owlCarousel: any;
 
 @Component({
   selector: 'my-app',
@@ -54,5 +57,7 @@ export class AppComponent implements OnInit  {
             $(this).removeClass("floating-label-form-group-with-focus");
         });
     });
+
+    $(".owl-carousel").owlCarousel();
   }
 }
